@@ -60,7 +60,7 @@ void 	diff_table_fill(int n1)
 			k[j]=k[j+1]-k[j];
 		}
 		n1--;
-	}/*
+	}*/
 }
 float return_x_multi(float k,int i)
 {
